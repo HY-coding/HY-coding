@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jerry.
-- 👨‍💻 I'm a firmware engineer and working on ble bicycle accessories.
-- 👀 I’m interested in iot applications.
-- 🌱 I’m currently learning swiftui and python.
-- 💞️ I’m looking to collaborate on swiftui.
+- 👨‍💻 I'm a firmware engineer and working on ble relared products.
+- 👀 I’m interested in IOT applications.
+- 🌱 I’m currently learning SwiftUI and python.
+- 💞️ I’m looking to collaborate on SwiftUI.
 - 📫 How to reach me devhyc2020@gmail.com
 
 <!---
